@@ -9,7 +9,7 @@ import retrofit2.http.Query
 
     private val BASE_URL = "https://www.googleapis.com/books/v1/volumes"
 
-    private  val API_KEY = "AIzaSyBpmFbZzUJztv5V3H5Eo12zR6QIEAKqahs"
+    private  val API_KEY =
 
     //retrofit Instance
 
